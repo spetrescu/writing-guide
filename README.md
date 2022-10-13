@@ -4,7 +4,7 @@ Do you need to write a text eloquently? Do you need help with structuring alread
 ### Guidelines for structuring writing
 1. Structure for writing Introduction (for paper/essay): [CARS model](https://libguides.usc.edu/writingguide/CARS)
 
-### Phrases and linkning words
+### Phrases and linking words
 1. Manchester academic phrasebank: [General resource for academic writers](https://www.phrasebank.manchester.ac.uk/writing-definitions/)
 2. [Commonly used linking words in academic writing](https://web2.uvcs.uvic.ca/courses/elc/sample/ite/gs/gs_38.html)
 
