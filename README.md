@@ -1,5 +1,5 @@
 # writing-guide
-Do you need to write a text eloquently? Do you need help with structuring already existing ideas into an essay or report? Or, do you want to generally work on improving your writing? Well, this repo contains useful resources that for improving writing skills. Might be of interest to students, researchers, and practitioners.
+Would you like to write a text eloquently? Are you in need of help with structuring already existing ideas into an essay or report? Or, even better, would you like to improve your writing skills overall? Well, then you're in the right place, as this repository contains useful resources for all of the above. Might be of interest to students, researchers, and practitioners.
 
 ### Guidelines for structuring writing
 1. Structure for writing Introduction (for paper/essay): [CARS model](https://libguides.usc.edu/writingguide/CARS)
