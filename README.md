@@ -1,6 +1,9 @@
 # writing-guide
 Would you like to write a text eloquently? Are you in need of help with structuring already existing ideas into an essay or report? Or, even better, would you like to improve your writing skills overall? Well, then you're in the right place, as this repository contains useful resources for all of the above. Might be of interest to students, researchers, and practitioners.
 
+### Guidelines for technical writing
+1. [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) by Jennifer Widom (Dean of the Stanford University School of Engineering)
+
 ### Guidelines for structuring writing
 1. Structure for writing Introduction (for paper/essay): [CARS model](https://libguides.usc.edu/writingguide/CARS)
 
@@ -13,4 +16,4 @@ Would you like to write a text eloquently? Are you in need of help with structur
 2. [American English writing style guide: _The Elements of Style_](https://daoyuan14.github.io/elos.pdf)
 
 ### Contributions guidelines
-Feel free to open a PR in case you know other useful resources that might be relevant to the topic of writing.
+Feel free to open a PR to add other resources that might be relevant to the topic of writing.
