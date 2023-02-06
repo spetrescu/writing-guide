@@ -17,4 +17,4 @@ Would you like to write a text eloquently? Are you in need of help with structur
 2. [Commonly used linking words in academic writing](https://web2.uvcs.uvic.ca/courses/elc/sample/ite/gs/gs_38.html)
 
 ### Contributions guidelines
-Feel free to open a PR to add other resources that might be relevant to the topic of writing.
+Feel free to open a PR to add other relevant resources for _writing_.
