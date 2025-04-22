@@ -10,6 +10,7 @@ Would you like to write a text eloquently? Are you in need of help with structur
 1. [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) by Jennifer Widom (Dean of the Stanford University School of Engineering)
 2. M. Young, The Technical Writer’s Handbook. Mill Valley, CA: University Science, 1989.
 3. [Skillful writing of an awful research paper](https://pubs.acs.org/doi/full/10.1021/ac2000169)
+4. [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
 
 ### Guidelines for structuring writing
 1. Structure for writing Introduction (for paper/essay): [CARS model](https://libguides.usc.edu/writingguide/CARS)
