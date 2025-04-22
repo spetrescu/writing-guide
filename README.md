@@ -18,5 +18,8 @@ Would you like to write a text eloquently? Are you in need of help with structur
 1. Manchester academic phrasebank: [General resource for academic writers](https://www.phrasebank.manchester.ac.uk/writing-definitions/)
 2. [Commonly used linking words in academic writing](https://web2.uvcs.uvic.ca/courses/elc/sample/ite/gs/gs_38.html)
 
+### The Computer Scientist as a Toolsmith
+[The Computer Scientist as a Toolsmith II](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
+
 ### Contributions guidelines
 Feel free to open a PR to add other relevant resources for _writing_.
