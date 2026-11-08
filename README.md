@@ -6,6 +6,7 @@ Would you like to write a text eloquently? Are you in need of help with structur
 2. [American English writing style guide: _The Elements of Style_](https://daoyuan14.github.io/elos.pdf)
 3. [On Writing Well](http://richardcolby.net/writ2000/wp-content/uploads/2017/09/On-Writing-Well-30th-Anniversa-Zinsser-William.pdf)
 4. [Good writing by Paul Graham](https://paulgraham.com/goodwriting.html)
+5. [Writing as a tool for thinking](https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 
 ### Guidelines for technical writing
 1. [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) by Jennifer Widom (Dean of the Stanford University School of Engineering)
